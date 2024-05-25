@@ -3,8 +3,8 @@
 ## Author
 Eric Ramirez
 
-## Goal
-The goal of this code is to accurately predict the salary of a potential employee who is asking for a salary of $160,000. He claims that this was his previous salary, and his LinkedIn profile indicates he is a Regional Manager with 2 years of experience. This positions him between a Regional Manager and a Partner in our dataset. The hiring manager wants to use this model to analyze if his requested salary is above or below the market value, aiding in salary negotiations.
+## Purpose
+The goal of this script is to accurately predict the salary of a potential employee who is asking for a salary of $160,000. He claims that this was his previous salary, and his LinkedIn profile indicates he is a Regional Manager with 2 years of experience. This positions him between a Regional Manager and a Partner in our dataset. The hiring manager wants to use this model to analyze if his requested salary is above or below the market value, aiding in salary negotiations.
 
 ## Dataset
 The dataset used in this analysis contains the following information:
@@ -36,10 +36,10 @@ The following libraries are used:
 
 ### Visualizations
 #### Linear Regression Model
-![Linear Regression Model](linear_regression_model.png)
+![linear_regression](https://github.com/Akira6713/salary-prediciton-BI/assets/66973202/5a5e7139-251e-4ce5-b9f9-8f0c8e764e7c)
 
 #### Polynomial Regression Model
-![Polynomial Regression Model](polynomial_regression_model.png)
+![polynomial_regression](https://github.com/Akira6713/salary-prediciton-BI/assets/66973202/1d192b7e-aa2f-4c33-8e74-6c608ed2e62f)
 
 ### Predictions
 - **Linear Regression prediction for Regional Manager w/ 2 years experience**:  $330,378.79
